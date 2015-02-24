@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MyFavFoods
 //
-//  Created by mhevey on 2/23/15.
+//  Created by mhevey on 2/20/15.
 //  Copyright (c) 2015 Rock Valley College. All rights reserved.
 //
 

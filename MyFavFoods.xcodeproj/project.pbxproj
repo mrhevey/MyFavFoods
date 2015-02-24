@@ -14,6 +14,16 @@
 		E846B67B1A9C13F3000D3118 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E846B67A1A9C13F3000D3118 /* Images.xcassets */; };
 		E846B67E1A9C13F3000D3118 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E846B67C1A9C13F3000D3118 /* LaunchScreen.xib */; };
 		E846B68A1A9C13F4000D3118 /* MyFavFoodsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E846B6891A9C13F4000D3118 /* MyFavFoodsTests.swift */; };
+		E846B6951A9C3551000D3118 /* Thanksgiving Dinner.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B6941A9C3551000D3118 /* Thanksgiving Dinner.jpg */; };
+		E846B6991A9C3572000D3118 /* Chilli.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B6961A9C3572000D3118 /* Chilli.jpg */; };
+		E846B69A1A9C3572000D3118 /* Ice Cream.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B6971A9C3572000D3118 /* Ice Cream.jpg */; };
+		E846B69B1A9C3572000D3118 /* Coleslaw.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B6981A9C3572000D3118 /* Coleslaw.jpg */; };
+		E846B69E1A9C359F000D3118 /* Tacos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B69C1A9C359F000D3118 /* Tacos.jpg */; };
+		E846B69F1A9C359F000D3118 /* Loaded Mashed Potatoes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B69D1A9C359F000D3118 /* Loaded Mashed Potatoes.jpg */; };
+		E846B6A11A9C35BC000D3118 /* Oranges.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B6A01A9C35BC000D3118 /* Oranges.jpg */; };
+		E846B6A51A9C35E8000D3118 /* Pulled Pork.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B6A21A9C35E8000D3118 /* Pulled Pork.jpg */; };
+		E846B6A61A9C35E8000D3118 /* PB and J.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B6A31A9C35E8000D3118 /* PB and J.jpg */; };
+		E846B6A71A9C35E8000D3118 /* Pizza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E846B6A41A9C35E8000D3118 /* Pizza.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +48,16 @@
 		E846B6831A9C13F4000D3118 /* MyFavFoodsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFavFoodsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E846B6881A9C13F4000D3118 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E846B6891A9C13F4000D3118 /* MyFavFoodsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFavFoodsTests.swift; sourceTree = "<group>"; };
+		E846B6941A9C3551000D3118 /* Thanksgiving Dinner.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Thanksgiving Dinner.jpg"; path = "../../Downloads/Thanksgiving Dinner.jpg"; sourceTree = "<group>"; };
+		E846B6961A9C3572000D3118 /* Chilli.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Chilli.jpg; path = ../../Downloads/Chilli.jpg; sourceTree = "<group>"; };
+		E846B6971A9C3572000D3118 /* Ice Cream.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Ice Cream.jpg"; path = "../../Downloads/Ice Cream.jpg"; sourceTree = "<group>"; };
+		E846B6981A9C3572000D3118 /* Coleslaw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Coleslaw.jpg; path = ../../Downloads/Coleslaw.jpg; sourceTree = "<group>"; };
+		E846B69C1A9C359F000D3118 /* Tacos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Tacos.jpg; path = ../../Downloads/Tacos.jpg; sourceTree = "<group>"; };
+		E846B69D1A9C359F000D3118 /* Loaded Mashed Potatoes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Loaded Mashed Potatoes.jpg"; path = "../../Downloads/Loaded Mashed Potatoes.jpg"; sourceTree = "<group>"; };
+		E846B6A01A9C35BC000D3118 /* Oranges.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Oranges.jpg; path = ../../Downloads/Oranges.jpg; sourceTree = "<group>"; };
+		E846B6A21A9C35E8000D3118 /* Pulled Pork.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Pulled Pork.jpg"; path = "../../Downloads/Pulled Pork.jpg"; sourceTree = "<group>"; };
+		E846B6A31A9C35E8000D3118 /* PB and J.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "PB and J.jpg"; path = "../../Downloads/PB and J.jpg"; sourceTree = "<group>"; };
+		E846B6A41A9C35E8000D3118 /* Pizza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Pizza.jpg; path = ../../Downloads/Pizza.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +81,7 @@
 		E846B6631A9C13F3000D3118 = {
 			isa = PBXGroup;
 			children = (
+				E846B6931A9C14CA000D3118 /* images */,
 				E846B66E1A9C13F3000D3118 /* MyFavFoods */,
 				E846B6861A9C13F4000D3118 /* MyFavFoodsTests */,
 				E846B66D1A9C13F3000D3118 /* Products */,
@@ -113,6 +134,23 @@
 				E846B6881A9C13F4000D3118 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E846B6931A9C14CA000D3118 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				E846B6A21A9C35E8000D3118 /* Pulled Pork.jpg */,
+				E846B6A31A9C35E8000D3118 /* PB and J.jpg */,
+				E846B6A41A9C35E8000D3118 /* Pizza.jpg */,
+				E846B6A01A9C35BC000D3118 /* Oranges.jpg */,
+				E846B69C1A9C359F000D3118 /* Tacos.jpg */,
+				E846B69D1A9C359F000D3118 /* Loaded Mashed Potatoes.jpg */,
+				E846B6961A9C3572000D3118 /* Chilli.jpg */,
+				E846B6971A9C3572000D3118 /* Ice Cream.jpg */,
+				E846B6981A9C3572000D3118 /* Coleslaw.jpg */,
+				E846B6941A9C3551000D3118 /* Thanksgiving Dinner.jpg */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,9 +233,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E846B6991A9C3572000D3118 /* Chilli.jpg in Resources */,
+				E846B6A71A9C35E8000D3118 /* Pizza.jpg in Resources */,
+				E846B69F1A9C359F000D3118 /* Loaded Mashed Potatoes.jpg in Resources */,
+				E846B6A51A9C35E8000D3118 /* Pulled Pork.jpg in Resources */,
+				E846B6951A9C3551000D3118 /* Thanksgiving Dinner.jpg in Resources */,
 				E846B6791A9C13F3000D3118 /* Main.storyboard in Resources */,
+				E846B6A61A9C35E8000D3118 /* PB and J.jpg in Resources */,
+				E846B69E1A9C359F000D3118 /* Tacos.jpg in Resources */,
+				E846B6A11A9C35BC000D3118 /* Oranges.jpg in Resources */,
 				E846B67E1A9C13F3000D3118 /* LaunchScreen.xib in Resources */,
 				E846B67B1A9C13F3000D3118 /* Images.xcassets in Resources */,
+				E846B69B1A9C3572000D3118 /* Coleslaw.jpg in Resources */,
+				E846B69A1A9C3572000D3118 /* Ice Cream.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,9 +390,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = MyFavFoods/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -352,9 +403,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = MyFavFoods/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
